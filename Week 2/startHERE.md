@@ -19,9 +19,9 @@ Project
 
 Your mission is to recreate the static site below using your knowledge of HTML and CSS (and your ability to Google what you don't know!).
 
-Focus on recreating the layout (if you need to use different icons/colors/etc. that's fine). I've included images in ![this folder](https://drive.google.com/open?id=1eNVTEuvFwiadmDi1kDNkFHTtIYLHOCJ9) that you can use or choose your own.
+Focus on recreating the layout (if you need to use different icons/colors/etc. that's fine). I've included images in Eterna-Project folder that you can use or choose your own.
 
-![Eterna Page](https://drive.google.com/file/d/1bYjSA8flU86CT7sy6pjXOVKCsiMOYzLK/view?usp=sharing)
+![Eterna Page]()
 
 Resources
 ---------

@@ -28,7 +28,7 @@ Project
 
 Design a static bio web page about yourself. Be sure to include 2-3 pictures, 2 headings, and a paragraph or two about you! Use at least 10 different HTML tags. Style the page as well.
 
-![Drew's Page](https://drive.google.com/file/d/1SAAJwz4gGG1WIgzS5O4V4Z47sXNV_FqZ/view?usp=sharing)
+![Drew's Page]()
 
 Extend Your Learning
 --------------------
