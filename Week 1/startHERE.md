@@ -6,19 +6,18 @@ Assignments
 
 ### HTML Basics
 
-1. [Reading on HTML Documents]()
-2. Activity #1 - [Build a Webpage]()
+1. [Reading on HTML Documents](https://github.com/Drewbie345/okcoders-winter2018/blob/master/Week%201/html-reading1.md)
+2. Activity #1 - [Build a Webpage](https://github.com/Drewbie345/okcoders-winter2018/blob/master/Week%201/html-activity1.md)
 3. [Video on HTML 5](https://youtu.be/IsXEVQRaTX8) (Watch the first 4 minutes!)
-4. Activity #2 - []()
 
 ### CSS Basics
 
-1. [Reading on CSS]()
+1. [Reading on CSS](https://github.com/Drewbie345/okcoders-winter2018/blob/master/Week%201/css-reading1.md)
 2. [CSS Inheritance Video](https://youtu.be/Bj2ZCfDPP2A)
-3. Activity #3 - [Getting Started with CSS]()
-4. Activity #4 - [Working with CSS Classes & IDs]()
-5. [Reading on CSS Box Model]()
-6. [Reading on CSS Positioning]()
+3. Activity #3 - [Getting Started with CSS](https://github.com/Drewbie345/okcoders-winter2018/blob/master/Week%201/css-activity1.md)
+4. Activity #4 - [Working with CSS Classes & IDs](https://github.com/Drewbie345/okcoders-winter2018/blob/master/Week%201/css-activity2.md)
+5. [Reading on CSS Box Model](https://github.com/Drewbie345/okcoders-winter2018/blob/master/Week%201/css-reading2.md)
+6. [Reading on CSS Positioning](https://github.com/Drewbie345/okcoders-winter2018/blob/master/Week%201/css-reading3.md)
 7. Work through this [CSS Positioning Guide](http://learnlayout.com/) Activity
 
 Project
@@ -28,7 +27,7 @@ Project
 
 Design a static bio web page about yourself. Be sure to include 2-3 pictures, 2 headings, and a paragraph or two about you! Use at least 10 different HTML tags. Style the page as well.
 
-![Drew's Page]()
+![Drew's Page](https://github.com/Drewbie345/okcoders-winter2018/blob/master/Week%201/drewBioPage.png)
 
 Extend Your Learning
 --------------------

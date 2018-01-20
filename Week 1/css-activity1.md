@@ -1,5 +1,5 @@
-CSS Activity #1
-================
+Activity #3
+===========
 
 1. Create a new HTML file in Sublime Text. Copy and paste the HTML code below into the file and save. Open the file in the browser.
 
